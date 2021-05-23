@@ -91,7 +91,7 @@ const getInputSize = type => {
     case 'dynamiczone':
       return 12;
     default:
-      return 6;
+      return 12;
   }
 };
 

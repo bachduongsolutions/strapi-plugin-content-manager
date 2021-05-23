@@ -29,7 +29,7 @@ const typeToSize = type => {
       return MAX_ROW_SIZE;
 
     default:
-      return MAX_ROW_SIZE / 2;
+      return MAX_ROW_SIZE;
   }
 };
 
